@@ -9,6 +9,7 @@ export {}
 declare module 'vue' {
   export interface GlobalComponents {
     ChardComponent: typeof import('./components/ChardComponent.vue')['default']
+    IngredientAdder: typeof import('./components/IngredientAdder.vue')['default']
     Main: typeof import('./components/Main.vue')['default']
     MenuCards: typeof import('./components/MenuCards.vue')['default']
     NavbarTracker: typeof import('./components/NavbarTracker.vue')['default']
