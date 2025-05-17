@@ -1,5 +1,5 @@
-## Working on a calory tracker to learn vue
+# Working on a calory tracker to learn vue
 
-# Current look of the page
+## Current look of the page
 
-![alt text](image.png)
+![alt text](src/assets/frontpage.png)
